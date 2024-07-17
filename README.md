@@ -34,7 +34,6 @@
 
 ### Back-End
 <img src="https://github.com/AVCTY/AVCTY/assets/77198012/03f78b24-b29a-4af6-bf4d-f22f4b5afa2d" width=50/>
-<img src="https://github.com/AVCTY/AVCTY/assets/77198012/618bdaeb-03be-4549-9c1b-817aac2cfb62" width=50/>
 
 ### Database
 <img src="https://github.com/AVCTY/AVCTY/assets/77198012/d32c36db-f00f-4b14-baee-7642ebc5849b" width=50/>
